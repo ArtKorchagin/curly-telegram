@@ -1,0 +1,14 @@
+- [ ] Dagger Hilt
+- [ ] Coroutines
+- [ ] SharedFlow
+- [ ] Jetpack Navigation
+- [ ] Jetpack Paging
+- [ ] Motion Layout
+- [ ] Activity Result API
+- [ ] Google Auto
+- [ ] ViewBinding
+- [ ] Dinamic Features
+- [ ] Kotlin Serialization
+- [ ] Ktor
+- [ ] SQLDelight
+- [ ] okio
